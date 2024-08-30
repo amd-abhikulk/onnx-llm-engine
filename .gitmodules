@@ -1,0 +1,6 @@
+[submodule "external/onnx-mlir"]
+	path = external/onnx-mlir
+	url = https://github.com/amd-abhikulk/onnx-mlir.git
+[submodule "external/vllm"]
+	path = external/vllm
+	url = git@github.com:amd-abhikulk/vllm.git
